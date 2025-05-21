@@ -15,7 +15,7 @@ An interactive and data-rich Power BI dashboard that provides detailed insights 
 ## 🛠 Built With
 
 - **Power BI Desktop** – for dashboard creation and data visualization
-- **Microsoft Excel / CSV** – for data input (not included in this repo)
+- **Microsoft Excel / CSV** – for data input
 - **Custom DAX Measures** – to calculate YoY and MTD metrics
 
 ## 📆 Data Timeline
@@ -26,6 +26,6 @@ An interactive and data-rich Power BI dashboard that provides detailed insights 
 ## 🧾 How to Use
 
 1. Clone this repository
-2. Open the `.pbix` file in Power BI Desktop (if provided)
+2. Open the `.pbix` file in Power BI Desktop
 3. Replace or connect your dataset if needed
 4. Explore and customize dashboard visuals as required
